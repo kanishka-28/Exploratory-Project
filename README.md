@@ -1,4 +1,3 @@
-# Pixelate Sample Arena
 
 ## Installation Guidelines
 
@@ -51,17 +50,3 @@ env = gym.make("pix_main_arena-v0")
 
 3. You can refer the file **helper.py** to see the documentation of the different functions and **aruco_test.py** to see the detection of aruco marker.
 
-## Made and maintained by
-
-<table>
-   <td align="center">
-      <a href="https://github.com/Vikhyath08">
-         <img src="https://avatars2.githubusercontent.com/u/55887656?s=460&v=4" width="100px;" alt=""/>
-         <br />
-         <sub>
-            <b>Vikhyath Venkatraman</b>
-         </sub>
-      </a>
-      <br />
-   </td>
-</table>
